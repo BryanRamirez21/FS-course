@@ -18,5 +18,5 @@
     server-->>browser: [{ "content": "new note", "date": "2023-1-1" }, ... ]
     deactivate server
 
-    Note right of browser: The browser executes the callback function that renders the notes and displays the new note
+    Note right of browser: The browser executes the callback function that renders the notes and displays the new not
 ```
